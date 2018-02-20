@@ -5,6 +5,7 @@ html {
 }
 body {
   margin: 0;
+  font-family: "bagatela" !important;
 }
 article,
 aside,
@@ -623,3 +624,20 @@ pre tt:after {
   }
 }
 
+body {
+  width: 50%;
+  margin: 100px auto ;
+}
+
+h1 ,p {
+  font-family : "bagatela" !important;
+}
+
+h1 {
+  font-size: 72px;
+}
+
+p {
+  font-size: 24px;
+  line-height: 1.5;
+}

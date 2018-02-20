@@ -4,11 +4,11 @@ import Link from 'gatsby-link'
 const Header = () => (
   <div >
     <div>
-      <h1>
+      {/* <h1>
         <Link to="/">
           Claydates <small>Create and be social</small>
         </Link>
-      </h1>
+      </h1> */}
     </div>
   </div>
 )
