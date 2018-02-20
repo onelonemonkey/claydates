@@ -629,6 +629,20 @@ body {
   margin: 100px auto ;
 }
 
+@media only screen and (max-width: 480px) {
+  body {
+    width: 90%;
+    margin: 50px auto;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    width: 70%;
+    margin: 100px auto;
+  }
+}
+
 h1, p {
   font-family : "bagatela" !important;
 }
