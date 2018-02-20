@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Claydates <small>Create and be social!</small></h1>
+    {/* <h1>Claydates <small>Create and be social!</small></h1> */}
 
     <section>
       <h2>What are Claydates?</h2>
