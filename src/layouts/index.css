@@ -625,19 +625,27 @@ pre tt:after {
 }
 
 body {
-  width: 50%;
+  width: 40%;
   margin: 100px auto ;
 }
 
-h1 ,p {
+h1, p {
   font-family : "bagatela" !important;
 }
 
 h1 {
   font-size: 72px;
+  font-weight: 700;
 }
 
 p {
   font-size: 24px;
   line-height: 1.5;
+}
+
+em {
+  color: brown;
+  font-weight: 600;
+  text-decoration-style: wavy;
+  text-decoration-color: black;
 }
