@@ -1,0 +1,60 @@
+body {
+  width: 40%;
+  margin: 100px auto ;
+}
+
+h1, p {
+  font-family : "bagatela" !important;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+em {
+  color: brown;
+  font-weight: 600;
+  text-decoration-style: wavy;
+  text-decoration-color: black;
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 100%;
+  }
+
+  body {
+    width: 90%;
+    margin: 10px auto;
+  }
+
+  h1 {
+    font-size: 45px;
+    font-weight: 700;
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+  body {
+    width: 70%;
+    margin: 100px auto;
+  }
+}
+
+@media (min-width: 481px)  {
+  h1 {
+    font-size: 72px;
+    font-weight: 700;
+  }
+  
+  p {
+    font-size: 24px;
+  }
+}
+

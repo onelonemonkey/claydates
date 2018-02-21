@@ -7,7 +7,11 @@
     "gatsby": "^1.9.202",
     "gatsby-link": "^1.6.37",
     "gatsby-plugin-react-helmet": "^2.0.5",
+<<<<<<< HEAD
     "gatsby-source-datocms": "^1.0.26",
+=======
+    "gatsby-plugin-sass": "^1.0.17",
+>>>>>>> abfaa81f0b59dfe053975d9fbfd90ffa0ef40d80
     "react-helmet": "^5.2.0"
   },
   "keywords": [
