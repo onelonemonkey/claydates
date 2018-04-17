@@ -11,8 +11,7 @@ const TemplateWrapper = ({ children }) => (
       title="Claydates - Create and be social!"
       meta={[
         { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
-        { name: 'p:domain_verify', content: 'd418bef0212e86f240aea5a35d765af4' }
+        { name: 'keywords', content: 'sample, something' }
       ]}
     />
     <Header />
